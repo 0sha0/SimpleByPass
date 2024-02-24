@@ -9,4 +9,4 @@ Simple Shellcode Loader Using <br />
 vcpkg to install detours lib<br />
 VS2019 WIN10<br />
 ---------------------How to Build---------------------<br />
-
+Powered By ShaShen<br />
